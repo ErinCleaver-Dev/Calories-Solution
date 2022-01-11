@@ -1,0 +1,23 @@
+E:\VB2017\Chap08\Calories Solution\Calories Project\bin\Debug\Calories Project.exe.config
+E:\VB2017\Chap08\Calories Solution\Calories Project\bin\Debug\Calories Project.exe
+E:\VB2017\Chap08\Calories Solution\Calories Project\bin\Debug\Calories Project.pdb
+E:\VB2017\Chap08\Calories Solution\Calories Project\bin\Debug\Calories Project.xml
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories_Project.frmMain.resources
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories_Project.Resources.resources
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories Project.exe
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories Project.xml
+E:\VB2017\Chap08\Calories Solution\Calories Project\obj\Debug\Calories Project.pdb
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\bin\Debug\Calories Project.exe.config
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\bin\Debug\Calories Project.exe
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\bin\Debug\Calories Project.pdb
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\bin\Debug\Calories Project.xml
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories Project.vbprojAssemblyReference.cache
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories_Project.frmMain.resources
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories_Project.Resources.resources
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories Project.vbproj.GenerateResource.cache
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories Project.vbproj.CoreCompileInputs.cache
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories Project.exe
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories Project.xml
+C:\Users\chore\Downloads\Calories Solution\Calories Solution\Calories Project\obj\Debug\Calories Project.pdb
